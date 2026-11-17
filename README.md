@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040469
+# Name: THANGAPAZHAM P
+# Date: 17-11-2026
 
 
 # AIM:
@@ -48,11 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+<img width="993" height="727" alt="image" src="https://github.com/user-attachments/assets/dabcfa8e-d24a-49c5-9f95-672ff761834d" />
 
 # CLASS DIAGRAM
 
@@ -68,7 +64,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="1047" height="792" alt="image" src="https://github.com/user-attachments/assets/f000c0c4-2e6e-4e0c-9cd5-2cd3822c0094" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,8 +72,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="1031" height="882" alt="image" src="https://github.com/user-attachments/assets/d20e4240-bbb8-4808-b449-80d4ba930942" />
 
 # PACKAGE DIAGRAM:
 
@@ -87,12 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="915" height="602" alt="image" src="https://github.com/user-attachments/assets/bacc1185-e3d3-48e0-a034-89591243728f" />
 
 # ACTIVITY DIAGRAM:
 
@@ -116,6 +106,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="606" height="515" alt="image" src="https://github.com/user-attachments/assets/da6a02f4-194b-406a-8437-bc3812cd8d19" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
